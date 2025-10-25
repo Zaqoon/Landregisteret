@@ -1,0 +1,231 @@
+Russland;17075200
+Canada;9984670
+USA;9833517
+Kina;9596960
+Brasil;8511965
+Australia;7686850
+India;3287590
+Argentina;2766890
+Kasakhstan;2717300
+Algerie;2381740
+Den demokratiske republikken Kongo;2345410
+Grønland;2166086
+Saudi-Arabia;2149690
+Mexico;1972550
+Indonesia;1919440
+Sudan;1886068
+Libya;1759540
+Iran;1648000
+Mongolia;1564116
+Peru;1285220
+Tsjad;1284000
+Niger;1267000
+Angola;1246700
+Mali;1240000
+Sør-Afrika;1219912
+Colombia;1138910
+Etiopia;1127127
+Bolivia;1098580
+Mauritania;1030700
+Egypt;1001450
+Tanzania;945087
+Nigeria;923768
+Venezuela;912050
+Namibia;825418
+Pakistan;803940
+Mosambik;801590
+Tyrkia;780580
+Chile;756950
+Zambia;752614
+Burma;678500
+Afghanistan;647500
+Frankrike;643427
+Somalia;637657
+Den sentralafrikanske republikk;622984
+Sør-Sudan;619745
+Ukraina;603700
+Botswana;600370
+Madagaskar;587040
+Kenya;582650
+Jemen;527970
+Thailand;514000
+Spania;504782
+Turkmenistan;488100
+Kamerun;475440
+Papua Ny-Guinea;462840
+Sverige;449964
+Usbekistan;447400
+Marokko;446550
+Irak;437072
+Paraguay;406750
+Zimbabwe;390580
+Norge;385199
+Japan;377835
+Tyskland;357021
+Republikken Kongo;342000
+Finland;338145
+Malaysia;329750
+Vietnam;329560
+Elfenbenskysten;322460
+Polen;312679
+Oman;309500
+Italia;301230
+Filippinene;300000
+Ecuador;283560
+Burkina Faso;274200
+New Zealand;268680
+Gabon;267667
+Vest-Sahara;266000
+Guinea;245857
+Storbritannia;244820
+Ghana;239460
+Romania;237500
+Laos;236800
+Uganda;236040
+Guyana;214970
+Belarus;207600
+Kirgisistan;198500
+Senegal;196190
+Syria;185180
+Kambodsja;181040
+Uruguay;176220
+Tunisia;163610
+Surinam;163270
+Nepal;147181
+Bangladesh;144000
+Tadsjikistan;143100
+Hellas;131940
+Nicaragua;129494
+Eritrea;121320
+Nord-Korea;120540
+Malawi;118480
+Benin;112620
+Honduras;112090
+Liberia;111370
+Bulgaria;110910
+Cuba;110860
+Guatemala;108890
+Island;103000
+Sør-Korea;98480
+Ungarn;93030
+Portugal;92391
+Jordan;92300
+Aserbajdsjan;86600
+Østerrike;83870
+De forente arabiske emirater;83600
+Tsjekkia;78866
+Panama;78200
+Serbia;77474
+Sierra Leone;71740
+Irland;70280
+Georgia;69700
+Sri Lanka;65610
+Litauen;65300
+Latvia;64589
+Togo;56785
+Kroatia;56542
+Bosnia-Hercegovina;51209
+Costa Rica;51100
+Slovakia;48845
+Den dominikanske republikk;48730
+Bhutan;47000
+Estland;45226
+Danmark;43094
+Nederland;41526
+Sveits;41290
+Guinea-Bissau;36120
+Republikken Kina (Taiwan);35980
+Moldova;33843
+Belgia;30528
+Lesotho;30355
+Armenia;29743
+Albania;28748
+Salomonøyene;28450
+Ekvatorial-Guinea;28051
+Burundi;27830
+Haiti;27750
+Rwanda;26338
+Nord-Makedonia;25333
+Djibouti;23000
+Belize;22966
+El Salvador;21040
+Israel;20770
+Slovenia;20273
+Ny-Caledonia;19060
+Fiji;18270
+Kuwait;17820
+Eswatini;17363
+Øst-Timor;15007
+Montenegro;14026
+Bahamas;13940
+Puerto Rico;13790
+Vanuatu;12200
+Falklandsøyene;12173
+Qatar;11437
+Gambia;11300
+Jamaica;10991
+Kosovo;10887
+Libanon;10400
+Kypros;9250
+Palestina;6020
+Brunei;5770
+Trinidad og Tobago;5128
+Fransk Polynesia;4167
+Kapp Verde;4033
+Samoa;2944
+Luxembourg;2586
+Komorene;2170
+Mauritius;2040
+De amerikanske Jomfruøyer;1910
+Færøyene;1399
+Hongkong;1348
+São Tomé og Príncipe;1001
+De nederlandske Antiller;960
+Kiribati;811
+Dominica;754
+Tonga;748
+Mikronesiaføderasjonen;702
+Singapore;693
+Bahrain;665
+Saint Lucia;616
+Man;572
+Guam;541
+Nord-Marianene;477
+Andorra;468
+Palau;458
+Seychellene;455
+Antigua og Barbuda;443
+Barbados;431
+Turks- og Caicosøyene;430
+St. Helena;413
+Saint Vincent og Grenadinene;389
+Mayotte;374
+Grenada;344
+Malta;316
+Maldivene;300
+Wallis- og Futunaøyene;274
+Caymanøyene;262
+Saint Kitts og Nevis;261
+Niue;260
+Saint-Pierre og Miquelon;242
+Cookøyene;237
+Amerikansk Samoa;199
+Aruba;193
+Marshalløyene;181
+Liechtenstein;160
+De britiske Jomfruøyer;153
+Christmasøya;135
+Anguilla;102
+Montserrat;102
+San Marino;61
+Bermuda;53
+Pitcairnøyene;47
+Norfolkøya;35
+Macao;28
+Tuvalu;26
+Nauru;21
+Saint-Barthélemy;21
+Kokosøyene;14
+Tokelau;10
+Gibraltar;7
+Monaco;2
