@@ -1,4 +1,4 @@
-# Country Stats Project
+# Øvingsoppgave 9 i DAT120
 
 This project reads population and area data for countries, creates `Country` objects, and compares them.
 
